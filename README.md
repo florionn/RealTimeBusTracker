@@ -1,6 +1,6 @@
 # Real Time Bus Tracker
 
-In this exercise we will show all the bus stops from MIT to Harvard.Go on https://github.com/florionn/RealTimeBusTracker to start the exercise.  To start the animation hit the button on the top left corner that says “Show stops between MIT and Harvard” and a tracker will start moving along the path and show all the bus stops from MIT all the way to the Harvard campus.
+In this exercise we will show all the bus stops from MIT to Harvard.Go on https://florionn.github.io/RealTimeBusTracker to start the exercise.  To start the animation hit the button on the top left corner that says “Show stops between MIT and Harvard” and a tracker will start moving along the path and show all the bus stops from MIT all the way to the Harvard campus.
 
 Copyright <2021> <COPYRIGHT HOLDER "MIT">
 
